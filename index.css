@@ -1,0 +1,224 @@
+body{
+overflow-x: hidden;
+
+
+}
+.navbar{
+position: fixed;
+background-color: rgba(0, 0, 0, 0.877);
+}
+
+.navbar{
+    position: fixed;
+background-color: rgba(5, 5, 5, 0.74);
+}
+
+.imagem iphone{
+width: 100%;
+height: 100%;
+
+
+}
+
+.menu{
+display: flex;
+justify-content: space-between;
+margin: auto;
+width: 300px;
+background-position: bottom;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.ipad{
+
+background-color: black;
+width: 100vw;
+height: 100vh;
+background-image: url(ipad_pro.jpg);
+background-position: center;
+background-size: cover;
+}
+
+.navbar{
+position: fixed;
+
+}
+
+.mac{
+    background-image: url(imac_avail.jpg);
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.navbar navbar-expand-lg navbar-dark bg-dark{
+position: fixed;
+
+}
+.nav-item{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 150px;
+    position: center;
+
+
+}
+
+.iphonepro{
+    background-image: url(iphone_pro.jpg);
+    background-position: center top;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+
+
+
+}
+
+.rodape{
+    background-image: url(roda.png);
+    background-position: center top;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+
+.menu1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 65px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 300px;
+    background-position: bottom;
+}
+
+.menu2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 300px;
+    background-position: bottom;
+
+
+}
+
+.menu3{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    margin-right: 50px;
+    
+
+}
+
+.menu4{
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.menu3:nth-child(2){
+margin-left: 10px;
+margin-right: 20px;
+
+
+}
+
+p{
+text-align: center;
+margin-top: 50px;
+
+}
+
+.nav-link{
+color: white;
+
+
+}
+
+.frase{
+width: 100%;
+height: 20px;
+padding-top: 100px;
+
+}
+.coluna1{
+background-image: url(imagem_coluna_1.jpg);
+background-size: cover;
+background-position: center;
+width: 100%;
+height: 400px;
+}
+.coluna2{
+    background-image: url(imagem_coluna_2.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    
+}
+
+.coluna3{
+    background-image: url(imagem_coluna_3.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    
+}
+
+.coluna4{
+    background-image: url(imagem_coluna_4.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    
+}
+
+.coluna5{
+    background-image: url(imagem_coluna_5.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    
+}
+
+.coluna6{
+    background-image: url(imagem_coluna_6.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    
+}
+
+.menu1-0{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 65px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 300px;
+    background-position: bottom;
+
+}
+
+.menu2-0{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 300px;
+    background-position: bottom;
+text-align: center;
+
+
+}
